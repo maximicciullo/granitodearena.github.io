@@ -54,3 +54,62 @@ Para más información sobre Granito de Arena, visita [granitodearena.org.ar](ht
 
 ---
 Desarrollado con ❤️ para la comunidad de Belén de Escobar, Buenos Aires, Argentina.
+
+---
+
+# Granito de Arena 🏫 (English Version)
+
+## About the Project
+Official website for Granito de Arena, a community center dedicated to the human development of children and adolescents through academic support classes, computing, orchestra, and catechesis meetings.
+
+## 🌟 Features
+- Responsive design for all devices
+- Information about our programs and services
+- Gallery of images from our activities
+- Contact form for inquiries and information
+
+## 🛠️ Technologies Used
+- HTML5
+- CSS3
+- JavaScript
+- GitHub Pages (hosting)
+- Cloudflare (DNS and domain management)
+
+## 🌐 Technical Configuration
+- **Hosting**: GitHub Pages
+- **Domain Management**: Cloudflare was used to configure DNS and connect the custom domain granitodearena.org.ar
+- **SSL/HTTPS**: Certificate managed through GitHub Pages and Cloudflare
+
+## 📋 Site Structure
+- **Home**: Welcome and summary of our mission
+- **About Us**: Information about our history and team
+- **Contact Us**: Form and contact information
+
+## 🚀 Local Development
+To view the site locally:
+1. Clone this repository
+   ```bash
+   git clone https://github.com/maximicciullo/granitodearena.github.io.git
+   ```
+2. Open `index.html` in your browser
+
+## 🔄 How to Contribute
+1. Fork the repository
+2. Create a branch for your contribution
+   ```bash
+   git checkout -b new-feature
+   ```
+3. Make your changes and commit them
+   ```bash
+   git commit -m "Description of changes"
+   ```
+4. Submit a pull request
+
+## 📝 License
+This project is under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## 📞 Contact
+For more information about Granito de Arena, visit [granitodearena.org.ar](https://granitodearena.org.ar) or contact us through the form on our website.
+
+---
+Developed with ❤️ for the community of Belén de Escobar, Buenos Aires, Argentina.
