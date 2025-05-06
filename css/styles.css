@@ -491,6 +491,10 @@ footer {
     content: "📍";
 }
 
+.icon-instagram:before {
+    content: "📸"; 
+
+
 .icon-clock:before {
     content: "🕒";
 }
